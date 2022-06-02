@@ -42,7 +42,7 @@
 <br />
 
  ### 📫 How to reach me: - - -     
-    🌱 Discord: etherdev365#1899
+    🌱 Discord:  etherdev365#1899
     🌱 Telegram: @etherdev365
-    🌱 Skype: etherdev365@outlook.com    
+    🌱 Skype:    etherdev365@outlook.com    
 <br />
