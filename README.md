@@ -1,19 +1,16 @@
-#  I am a Blockchain & Full-Stack Developer
+# Hi, 👋 I am a Blockchain & Full-Stack Developer
 
  ### 🍓 Blockchain | NFT Marketplace | ICO Platform | DAPP  
     😄 Blockchain developer with 3+ years of experience in solidity, rust, web3.js, ether.js.
       - Experienced in NFT marketplace, Ethereum, Polygon, Cardano networks and I am very familiar 
         with implementing ERC20, ERC721, ERC1155. 
       - NFT minting, NFT drop, Smart Contract with Solidity, Rust, Haskell.
-
   ### 🍓 Web | Mobile  
     😄 Full-Stack developer with 7+ years of experience in
       - Frontend: HTML5/CSS3, Bootstrap, JQuery, ReactJS, VueJS, Angular
       - Backend: Core PHP, Laravel, CodeIgniter, CakePHP
       - JavaScript: NodeJS, Expressjs, Typescript
       - Swift, Xcode, Java, Android Studio, Flutter, React Native, Xamarin
-
-
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Top-Kraken.Top-Kraken" />
 <img align="right" src="https://img.shields.io/github/followers/Top-Kraken?label=Follow&style=social" />
@@ -43,13 +40,8 @@
 
 <br />
 <br />
-
- ### 📫 How to reach me: .....     
+ ### 📫 How to reach me: - - -     
     🌱 Discord: etherdev365#1899
     🌱 Telegram: @etherdev365
-    🌱 Skype: etherdev365@outlook.com
-    
+    🌱 Skype: etherdev365@outlook.com    
 <br />
-<br />    
----
-
