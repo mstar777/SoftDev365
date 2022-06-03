@@ -13,8 +13,6 @@
       - Swift, Xcode, Java, Android Studio, Flutter, React Native, Xamarin
 </br>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SoftDev365.SoftDev365" />
-<img align="right" src="https://img.shields.io/github/followers/SoftDev365?label=Follow&style=social" />
-<h1 align="center"/>
 <h1 align="center"/>
 
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=SoftDev365&count_private=true&show_icons=true&theme=chartreuse-dark" />
