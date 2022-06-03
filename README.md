@@ -11,7 +11,6 @@
       - Backend: Core PHP, Laravel, CodeIgniter, CakePHP
       - JavaScript: NodeJS, Expressjs, Typescript
       - Swift, Xcode, Java, Android Studio, Flutter, React Native, Xamarin
-</br>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SoftDev365.SoftDev365" />
 <h1 align="center"/>
 <h1 align="center"/>
