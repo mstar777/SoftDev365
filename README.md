@@ -4,8 +4,6 @@
     🌱 Discord:  etherdev365#1899
     🌱 Telegram: @etherdev365
     🌱 Skype:    etherdev365@outlook.com    
-<br />
-<br />
 
  ### 🍓 Blockchain | NFT Marketplace | ICO Platform | DAPP  
     😄 Blockchain developer with 3+ years of experience in solidity, rust, web3.js, ether.js.
@@ -18,6 +16,7 @@
       - Backend: Core PHP, Laravel, CodeIgniter, CakePHP
       - JavaScript: NodeJS, Expressjs, Typescript
       - Swift, Xcode, Java, Android Studio, Flutter, React Native, Xamarin
+      
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SoftDev365.SoftDev365" />
 <h1 align="center"/>
 <h1 align="center"/>
