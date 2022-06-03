@@ -1,5 +1,12 @@
 # Hi, 👋 I am a Blockchain & Full-Stack Developer
 
+### 📫 How to reach me: - - -     
+    🌱 Discord:  etherdev365#1899
+    🌱 Telegram: @etherdev365
+    🌱 Skype:    etherdev365@outlook.com    
+<br />
+<br />
+
  ### 🍓 Blockchain | NFT Marketplace | ICO Platform | DAPP  
     😄 Blockchain developer with 3+ years of experience in solidity, rust, web3.js, ether.js.
       - Experienced in NFT marketplace, Ethereum, Polygon, Cardano networks and I am very familiar 
@@ -40,8 +47,4 @@
 <br />
 <br />
 
- ### 📫 How to reach me: - - -     
-    🌱 Discord:  etherdev365#1899
-    🌱 Telegram: @etherdev365
-    🌱 Skype:    etherdev365@outlook.com    
-<br />
+
