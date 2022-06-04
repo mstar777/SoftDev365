@@ -7,9 +7,9 @@
 
  ### 🍓 Blockchain | NFT Marketplace | ICO Platform | DAPP  
     😄 Blockchain developer with 3+ years of experience in solidity, rust, web3.js, ether.js.
-      - Experienced in NFT marketplace, Ethereum, Polygon, Cardano networks and I am very familiar 
+      - Experienced in NFT marketplace, Ethereum, Flow, Polygon, Cardano networks and I am very familiar 
         with implementing ERC20, ERC721, ERC1155. 
-      - NFT minting, NFT drop, Smart Contract with Solidity, Rust, Haskell.
+      - NFT minting, NFT drop, Smart Contract with Solidity, Cadence, Rust, Haskell.
   ### 🍓 Web | Mobile  
     😄 Full-Stack developer with 7+ years of experience in
       - Frontend: HTML5/CSS3, Bootstrap, JQuery, ReactJS, VueJS, Angular
