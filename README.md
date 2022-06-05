@@ -1,6 +1,6 @@
  # Hi, 👋 I am a Blockchain & Full-Stack Developer
 
- ### 📫 How to contact me - - - - -     
+ ### 📫 How to contact me - - - - >     
     🌱 Discord:  etherdev365#1899
     🌱 Telegram: @etherdev365
     🌱 Skype:    etherdev365@outlook.com    
