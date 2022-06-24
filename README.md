@@ -1,4 +1,4 @@
- # Hi, 👋 I am a Blockchain & Full-Stack Developer
+ # Welcome, 👋 I am a Blockchain & Full-Stack Developer
 
  ### 📫 How to contact me ?
     🌱 Discord:  etherdev365#1899
