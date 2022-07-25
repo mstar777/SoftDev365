@@ -3,7 +3,8 @@
  ### 📫 How to contact me ---
     🌱 Discord:  etherdev365#1899
     🌱 Telegram: @etherdev365
-    🌱 Skype:    etherdev365@outlook.com    
+    🌱 Skype:    etherdev365@outlook.com
+    🌱🌱🌱 Note: I'd like to chat through telegram or discord or freelancer.com better than skype, you can understand me. My dob is 0917, your last 4-digits are 1089.
 
  ### 🍓 Blockchain | NFT Marketplace | ICO Platform | DAPP  
     😄 Blockchain developer with 3+ years of experience in solidity, rust, web3.js, ether.js.
