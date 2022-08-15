@@ -13,9 +13,9 @@
   ### 🍓 Web | Mobile  
     😄 Full-Stack developer with 8+ years of experience in
       - Frontend: HTML5/CSS3, Bootstrap, JQuery, ReactJS, VueJS, Angular
-      - Backend: Core PHP, Laravel, CodeIgniter, CakePHP
+      - Backend: Java(Spring, Spring Boot), Core PHP, Laravel, CodeIgniter, CakePHP
       - JavaScript: NodeJS, Expressjs, Typescript
-      - Swift, Xcode, Java, Android Studio, Flutter, React Native, Xamarin
+      - Swift, Xcode,  Java/J2EE, SOAP/Restful, Android Studio, Flutter, React Native, Xamarin
       
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SoftDev365.SoftDev365" />
 <h1 align="center"/>
