@@ -1,7 +1,4 @@
  # Welcome, 👋 I am a Blockchain & Full-Stack Developer
-
- ### 📫 How to contact me ?
-    🌱 Skype:    etherdev365@outlook.com
     
  ### 🍓 Blockchain | NFT Marketplace | ICO Platform | DAPP  
     😄 Blockchain developer with 4+ years of experience in solidity, rust, web3.js, ether.js.
